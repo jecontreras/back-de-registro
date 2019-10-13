@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dilisap-224923",
+  "private_key_id": "3fd59447298b345b1c1c248b712daee7dfb95afc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDa2F7rFhHjK2WT\n9CcP1NUcPjoIzjrZ1dkAoXsxPEG5/jyyhU/+JVp/cFvCiLSbLsrtfvVzALTuey/Z\nnH4UiPOVb0Lpw+NtMHTz73ouDAdGi8ttcEw93kCMMFOxvNTd1/BKoQJjfxeSI0Xv\npyRZA4L8QGxDC9YS3qVI8XRj/oAOwoYZ+3DI7SIfYi77JTt+NjgrDZGTAYzCvTRg\n8+DMeXaychwbZLSR32rJTg1kyNXNwSe5n6FtLaMQk2D2VUg8Llc1sMiv+zp8J3YV\nW3JGYwiWa2aLnUy81ikhyhlo3ufs0YjTDrhWxI4PUSK0iDBHuDn6RPAJ0b/HM6uQ\nrBuDw1yJAgMBAAECggEABGNGM+xzW1ypYrgIeHbJ9xEAVODdqTRyb2LNd4U/xBzm\n1qV5nxzcnaWBEXtwM5RSmURsY2vmNMnfgbtzg7HjQGHEs68rxiqsjZ+FkZrIIo/2\n+jDANpVYMfdeFjg1BGWp+bUUuS35KQLwCggN4IMDg08/XHDGUAaKxdWhgce+hY0z\nZ8IBDuLKotv8T1HinANeDBfDGgcEk6O//VOko+O7xhQd17Q4wP7i5W+3SI7oqQXz\n97Tm/6tXUbkfajTNh21ennw6YMXxliB3IjFQLBMa8VnNqhwAa7Ja6nfWndGaW0CP\n+07Z8vueJmTVwU1gIsV0l8QnQB62zSZAiXr+kpSvqQKBgQD1RjDtUL/RmKtrW88w\nhzUeXO2ryrk/JUTEs2q2OGVe0GuuIsHFmxjX0ylqgjajBaXUSgFo3+dlwQ/SE7CP\noCiqBjVwd/HnzMuvvj3y6TK0VFKnTFCi1og41mHlbvOwjBj4nYKaocNS5eGwU2mC\nDYmgvhusjT+o5RGLTkw7a1GVTwKBgQDkak+dZw/LVX80wZZZTeaXxGulh/eHJ7uH\nPJvgPw/fa5fIy2yu0v976MaXJGJsdozpIL1BZwXBMdB8s9fRHNI701wBIcOBbeMg\nnGLIvMs2KpKCepdfiQbnLBaODVvKf7bDqw8u4knf+0PG6BusQBs9beQY9iX6E2nh\n96crxTQqpwKBgQC8iJ/DS3am3fumIoQ4gTXLiRMIImQSrcsWh/NW7jK9lueuivj3\ntCh8fcwwGrd0yDqX2+sJelKcXLKUgJ4PSMT5LJyXPxurWjiXdlyYA7j99HM0Ne0l\nvlInnmLRwV+ALbBkKm7h/cXuStYYe4V2eoF4FamgEVMFuE6sDht68Rtc8QKBgQDc\nAj5fWUbQTrCxCwobSLqkUnBxR463YyDw+QMXMwbB56uSn8Y2ekvVePfX2xbmbCX7\n4yoH1gin9qhfhQaKh91D/Khw+qmKgGK2JYvM2HRP3x+xiA1H2v+IKWIsP1e7q9pJ\ni/ma6iHIGQhGjYkiF7llKPT8yhL4Vjy1h8pAkblWnwKBgAHEdzwoP4RLxFmfhmrk\no0LNqGbXzmC8gVOAO8S05OfG16WCyxk4Je/MYAabKylW9uB+5JmvqkN7FOdLBjPa\nsLUhVu0P1aj8Hg+BxKn8l6ZAx9Z0gKLyUmhXZTW2GtbRiyBuJ5gGI+/VbzGs43xW\nvd5zY7TdknXkCcx9nrB1fKxa\n-----END PRIVATE KEY-----\n",
+  "client_email": "dilisaplive@dilisap-224923.iam.gserviceaccount.com",
+  "client_id": "115935268021634331998",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dilisaplive%40dilisap-224923.iam.gserviceaccount.com"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "back-tiendas",
+  "private": true,
+  "version": "0.0.0",
+  "description": "a Sails application",
+  "keywords": [],
+  "dependencies": {
+    "@sailshq/lodash": "^3.10.3",
+    "base64-img": "^1.0.4",
+    "google-drive": "0.0.8",
+    "googleapis": "^27.0.0",
+    "machinepack-passwords": "^2.3.0",
+    "moment": "^2.24.0",
+    "node-excel-export": "^1.4.4",
+    "nodemailer": "^6.2.1",
+    "s3": "^4.4.0",
+    "sails": "^1.1.0",
+    "sails-hook-orm": "^2.1.1",
+    "sails-hook-sockets": "^1.5.5",
+    "sails-mongo": "^1.0.1",
+    "sails-mysql": "1.0.1",
+    "skipper-s3": "^0.6.0"
+  },
+  "devDependencies": {
+    "@sailshq/eslint": "^4.19.3"
+  },
+  "scripts": {
+    "start": "NODE_ENV=production node app.js",
+    "test": "npm run lint && npm run custom-tests && echo 'Done.'",
+    "lint": "eslint . --max-warnings=0 --report-unused-disable-directives && echo '✔  Your .js files look good.'",
+    "custom-tests": "echo \"(No other custom tests yet.)\" && echo"
+  },
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/anonymous node/sails user/back-tiendas.git"
+  },
+  "author": "anonymous node/sails user",
+  "license": "",
+  "engines": {
+    "node": "^10.5"
+  }
+}
