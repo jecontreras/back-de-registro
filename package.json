@@ -8,7 +8,7 @@
     "@sailshq/lodash": "^3.10.3",
     "base64-img": "^1.0.4",
     "google-drive": "0.0.8",
-    "googleapis": "^27.0.0",
+    "googleapis": "^39.1.0",
     "machinepack-passwords": "^2.3.0",
     "moment": "^2.24.0",
     "node-excel-export": "^1.4.4",
