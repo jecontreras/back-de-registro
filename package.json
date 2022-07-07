@@ -10,7 +10,7 @@
     "google-drive": "0.0.8",
     "googleapis": "^27.0.0",
     "machinepack-passwords": "^2.3.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "node-excel-export": "^1.4.4",
     "nodemailer": "^6.2.1",
     "s3": "^4.4.0",
